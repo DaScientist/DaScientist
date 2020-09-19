@@ -14,10 +14,12 @@ Aim: To grasp and master the power of computation and create better world for me
 
 Anything! Just create an issue on [DaScientist Repo](https://github.com/DaScientist/DaScientist) and ask it😁
 
-#### Domains I'm comfortable with:
+##### Domains I'm comfortable with:
 
 - Mobile development
 - Web development
+
+---
 
 #### It was nice meeting you 😁
 <!--
