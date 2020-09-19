@@ -12,8 +12,7 @@ Aim: To grasp and master the power of computation and create better world for me
 
 ##### Things you can ask me about:
 
-Anything 😁
-Just create an issue on [DaScientist Repo]() and ask it😁
+Anything! Just create an issue on [DaScientist Repo]() and ask it😁
 
 
 #### It was nice meeting you 😁
