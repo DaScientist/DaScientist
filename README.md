@@ -1,7 +1,5 @@
 ## Hi there, Nice to meet you 👋
 
----
-
 ##### The name: Mustanseer Sakerwala. 
 ##### Nicknamed: Da Scientist
 (Why?: Because __'da'__ is more unique than **'the'** and I wanted to contribute to science🧪)
