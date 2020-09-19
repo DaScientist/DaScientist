@@ -2,7 +2,7 @@
 
 ##### The name: Mustanseer Sakerwala. 
 ##### Nicknamed: Da Scientist
-(Why?: Because __'da'__ is more unique than **'the'** and I wanted to contribute to science🧪)
+(Why?: Because __'da'__ sounds more unique than **'the'** and I wanted to contribute to science🧪)
 
 A student at SVIT,vasad🏫 who likes to gain knowledge in various fields.
 
