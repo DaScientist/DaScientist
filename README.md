@@ -20,6 +20,10 @@ Anything! Just create an issue on [DaScientist Repo](https://github.com/DaScient
 
 ---
 
+## Github Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=dascientist&count_private=true&show_icons=true&theme=radical&width=100%" />
+
 #### It was nice meeting you 😁
 <!--
 **DaScientist/DaScientist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
