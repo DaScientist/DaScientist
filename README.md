@@ -22,6 +22,7 @@ Anything! Just create an issue on [DaScientist Repo](https://github.com/DaScient
 
 ## Github Stats
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dascientist&show_icons=true&theme=radical&text_color=c9cacc" />
 <img src="https://github-readme-stats.vercel.app/api?username=dascientist&count_private=true&show_icons=true&theme=radical&width=100%" />
 
 #### It was nice meeting you 😁
