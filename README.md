@@ -3,9 +3,8 @@
 ##### The name: Mustanseer Sakerwala. 
 ##### Nicknamed: Da Scientist
 
-A student at SVIT,vasad🏫 who likes to gain knowledge in various fields.
-
-Aim: To grasp and master the power of computation and create better world for me to live in.
+An engineer who is always willing to learn new things!
+<!-- Aim: To grasp and master the power of computation and create better world for me to live in. -->
 
 ---
 
