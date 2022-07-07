@@ -1,6 +1,6 @@
 ## Hi there, Nice to meet you 👋
 
-##### The name: Mustanseer Sakerwala. 
+##### Name: Er. Mustanseer Sakerwala. 
 ##### Nicknamed: Da Scientist
 
 An engineer who is always willing to learn new things!
@@ -14,31 +14,27 @@ Anything! Just create an issue on [DaScientist Repo](https://github.com/DaScient
 
 ##### Domains I'm comfortable with:
 
-- Mobile development
-- Web development
+- Mobile development 📱
+- Web development  🕸
+- Desktop development 🖥
 
 ---
 
-## Github Stats
+<p align="center">
+<b>Github Stats</b><br/>
 <a href="https://github.com/DaScientist">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dascientist&show_icons=true&theme=radical&text_color=ACACAC&langs_count=7&title_color=ACACAC&layout=compact" />
 </a>
 <a href="https://github.com/DaScientist">
 <img src="https://github-readme-stats.vercel.app/api?username=dascientist&count_private=true&show_icons=true&theme=radical&width=100%&text_color=ACACAC&&title_color=ACACAC&icon_color=ACACAC" />
 </a>
+</p>
 
-#### It was nice meeting you 😁
-<!--
-**DaScientist/DaScientist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="center">
+<h3>Connect with me</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|[<img src="assets/twitter.png" width="40" alt="Twitter">](https://twitter.com/smustanseer) | [<img src="assets/discord.png" width="40" alt="Discord">](https://discordapp.com/users/DaScientist#8406) | [<img src="assets/linkedin.png" width="40" alt="LinkedIn">](https://www.linkedin.com/in/mustanseer-sakerwala-mm53bm52/) | [<img src="assets/gmail.png" width="40" alt="Mail">](mailto:connect.mustan@gmail.com)
+|:-------:|:-------:|:--------:|:-------:|
+</p>
