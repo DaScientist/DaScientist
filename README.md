@@ -37,4 +37,5 @@ Anything! Just create an issue on [DaScientist Repo](https://github.com/DaScient
 
 |[<img src="assets/twitter.png" width="40" alt="Twitter">](https://twitter.com/smustanseer) | [<img src="assets/discord.png" width="40" alt="Discord">](https://discordapp.com/users/DaScientist#8406) | [<img src="assets/linkedin.png" width="40" alt="LinkedIn">](https://www.linkedin.com/in/mustanseer-sakerwala-mm53bm52/) | [<img src="assets/gmail.png" width="40" alt="Mail">](mailto:connect.mustan@gmail.com)
 |:-------:|:-------:|:--------:|:-------:|
+|[smustanseer](https://twitter.com/smustanseer)|DaScientist#8406|[Mustanseer Sakerwala](https://www.linkedin.com/in/mustanseer-sakerwala-mm53bm52/)|[connect.mustan@gmail.com](mailto:connect.mustan@gmail.com)|
 </p>
