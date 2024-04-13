@@ -1,6 +1,6 @@
 ## Hi there, Nice to meet you 👋
 
-##### Name: Er. Mustanseer Sakerwala. 
+##### Name: Mustanseer Sakerwala. 
 ##### Nicknamed: Da Scientist
 
 An engineer who is always willing to learn new things!
