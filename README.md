@@ -1,7 +1,5 @@
 ## Hi there, Nice to meet you 👋
 
-![Mustanseer(BySakina)](https://github.com/user-attachments/assets/f27d6821-1170-4f73-85a8-44f79f245ea6)
-
 ##### Name: Mustanseer Sakerwala. 
 ##### Nicknamed: Da Scientist
 
