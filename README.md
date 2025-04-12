@@ -40,5 +40,12 @@ Anything! Just create an issue on [DaScientist Repo](https://github.com/DaScient
 |[smustanseer](https://twitter.com/smustanseer)|DaScientist#8406|[Mustanseer Sakerwala](https://www.linkedin.com/in/mustanseer-sakerwala-mm53bm52/)|[connect.mustan@gmail.com](mailto:connect.mustan@gmail.com)|
 </p>
 
+---
+
+<h3>Help me keep up my good work!</h3>
 
 [![Buy Me A Chai](https://buymeachai.ankushminda.com/assets/images/buymeachai-button.png)](https://buymeachai.ankushminda.com/dascientist)
+
+------------------------------ OR -----------------------------
+
+<a href="https://buymeacoffee.com/dascientist"><img width="350" alt="yellow-button" src="https://github.com/user-attachments/assets/db6163b6-a3f3-4a61-b7e3-1b2c0bc3445e" /></a>
