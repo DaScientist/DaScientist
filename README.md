@@ -39,3 +39,6 @@ Anything! Just create an issue on [DaScientist Repo](https://github.com/DaScient
 |:-------:|:-------:|:--------:|:-------:|
 |[smustanseer](https://twitter.com/smustanseer)|DaScientist#8406|[Mustanseer Sakerwala](https://www.linkedin.com/in/mustanseer-sakerwala-mm53bm52/)|[connect.mustan@gmail.com](mailto:connect.mustan@gmail.com)|
 </p>
+
+
+[![Buy Me A Chai](https://buymeachai.ankushminda.com/assets/images/buymeachai-button.png)](https://buymeachai.ankushminda.com/dascientist)
